@@ -1,3 +1,3 @@
 # codeur.me
 
-![](http://dev.eblackci.com/images/work/cdmi.gif)
+![gif](https://dev.eblackci.com/images/work/cdmi.gif)

@@ -1,0 +1,18 @@
+PROGRAMME ALGO
+
+VARIABLE : 
+	facto, n , val: REEL
+DEBUT
+	AFFICHER("CALCUL DU FACORIEL D UN NOMBRE")
+	AFFICHER("Entrez un nombre : ")
+	SAISIR(val)
+	n <-- val
+	facto <-- 1
+	TANTQUE (n > 1) FAIRE
+		facto <-- facto * n
+		n <-- n-1
+	FIN TANTQUE
+	AFFICHER ("le factoriel de" + val + "vaut "+ facto)
+FIN
+		
+		

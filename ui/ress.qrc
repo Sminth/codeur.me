@@ -1,0 +1,73 @@
+<RCC>
+  <qresource prefix="prefix1">
+    <file>flec.png</file>
+    <file>cloud-computing.png</file>
+    <file>computer.png</file>
+    <file>document.png</file>
+    <file>document-2.png</file>
+    <file>download.png</file>
+    <file>folder.png</file>
+    <file>link.png</file>
+    <file>list.png</file>
+    <file>padlock.png</file>
+    <file>pencil.png</file>
+    <file>settings.png</file>
+    <file>unlock.png</file>
+    <file>CX.jpg</file>
+    <file>code.jpg</file>
+    <file>dz.png</file>
+    <file>iconlistez.png</file>
+    <file>images (4).png</file>
+    <file>images (11).jpg</file>
+    <file>images (15).jpg</file>
+    <file>logo.png</file>
+    <file>hS.png</file>
+    <file>js.png</file>
+    <file>php.jpg</file>
+    <file>g (2).png</file>
+    <file>g (1).png</file>
+    <file>cplus.png</file>
+    <file>g.png</file>
+    <file>ezfc.jpg</file>
+    <file>sez.png</file>
+    <file>h.jpg</file>
+    <file>c.jpg</file>
+    <file>cdsharp.jpg</file>
+    <file>js (2).png</file>
+    <file>jv.png</file>
+    <file>lc.jpg</file>
+    <file>ll.jpg</file>
+    <file>lol.jpg</file>
+    <file>rowing-boats-4411463__340.jpg</file>
+    <file>study-789631__340.jpg</file>
+    <file>banque-en-ligne-696x465.jpg</file>
+    <file>te.jpg</file>
+    <file>bird-4399812__340.jpg</file>
+    <file>biz.jpg</file>
+    <file>coeur.png</file>
+    <file>cool.jpg</file>
+    <file>imag.jpg</file>
+    <file>images (1).jpg</file>
+    <file>images.jpg</file>
+    <file>komposing-4412562__340.jpg</file>
+    <file>landscape-4378548__340.jpg</file>
+    <file>meadow.jpg</file>
+    <file>rain-4407296__340.jpg</file>
+    <file>rowing-boats-4411463__340.jpg</file>
+    <file>science-fiction-4411078__340.jpg</file>
+    <file>study-789631__340.jpg</file>
+    <file>lo.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>df.jpg</file>
+    <file>dg.jpg</file>
+    <file>free-business.jpg</file>
+    <file>modern.jpg</file>
+    <file>modern-laptop.jpg</file>
+    <file>pb.jpg</file>
+    <file>photo.jpg</file>
+    <file>pile-of-silver-.jpg</file>
+    <file>sgd.jpg</file>
+    <file>ssfvv.jpg</file>
+  </qresource>
+</RCC>
